@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tejas Bhosale
+Build-Jdk: 18.0.1
+Implementation-Title: poc_springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: pocisimportant
+Implementation-URL: https://spring.io/projects/spring-boot/poc_springboo
+ t
+Created-By: Maven Integration for Eclipse
+
